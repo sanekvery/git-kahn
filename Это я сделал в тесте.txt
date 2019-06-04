@@ -2,3 +2,4 @@ print("Horse");
 print("Horse");
 print("Horse");
 привет обезьяна
+и написал жопу
