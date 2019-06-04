@@ -1,3 +1,4 @@
 print("Horse");
 print("Horse");
 print("Horse");
+привет обезьяна
