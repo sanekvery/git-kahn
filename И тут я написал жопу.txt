@@ -2,3 +2,5 @@ print("Horse");
 print("Horse");
 print("Horse");
 привет обезьяна
+print("Horse!");
+print("Horse!");
